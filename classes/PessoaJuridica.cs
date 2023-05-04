@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace reforco_backend.classes
 {
-    public class PessoaJuridica
+    public abstract class PessoaJuridica
     {
-        
+        public string? Nome {get; set;}
+
+        public float? Rendimento {get; set;}
     }
 }
