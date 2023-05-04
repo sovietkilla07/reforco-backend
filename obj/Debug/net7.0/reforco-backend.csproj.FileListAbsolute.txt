@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\reforco-backend\bin\Debug\net7.0\reforco-backend.exe
+C:\Users\User\Documents\GitHub\reforco-backend\bin\Debug\net7.0\reforco-backend.deps.json
+C:\Users\User\Documents\GitHub\reforco-backend\bin\Debug\net7.0\reforco-backend.runtimeconfig.json
+C:\Users\User\Documents\GitHub\reforco-backend\bin\Debug\net7.0\reforco-backend.dll
+C:\Users\User\Documents\GitHub\reforco-backend\bin\Debug\net7.0\reforco-backend.pdb
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.dll
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\refint\reforco-backend.dll
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.pdb
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\reforco-backend.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\reforco-backend\obj\Debug\net7.0\ref\reforco-backend.dll
